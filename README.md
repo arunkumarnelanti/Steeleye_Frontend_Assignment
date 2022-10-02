@@ -1,7 +1,7 @@
 # Steeleye - Frontend Engineer Assignment
 
-Github Repo: https://github.com/rahul-biswakarma/steeleye-frontend-assignment <br/>
-Web App: https://rahul-biswakarma.github.io/steeleye-frontend-assignment
+Github Repo: https://github.com/arunkumarnelanti/Steeleye_Frontend_Assignment <br/>
+Web App: https://github.io/arunkumarnelanti/Steeleye_Frontend_Assignment
 
 ***
 
