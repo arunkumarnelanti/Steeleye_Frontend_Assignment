@@ -59,7 +59,7 @@ Above mentioned fixes were enough for the React app to run, but after analyzing 
 4. I have also created different component files for the `WrappedSingleListItem` and `WrappedListComponent`.
 5. Also, added some minor CSS.
 6. Create a dummy items array to demonstrate the working of the app.
-7. Assignment is available in: https://github.com/rahul-biswakarma/steeleye-frontend-assignment.
+7. Assignment is available in: https://github.com/arunkumarnelanti/Steeleye_Frontend_Assignment.
    
 <br/>
 With the help of the above modifications, now the app can track the change of selected state for every element in the array and then changes background accordingly.
